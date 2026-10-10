@@ -31,8 +31,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-[![Tech Stack](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,py,html,css,git,github,vscode)](https://skillicons.dev)
-
 **Languages & Web**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,6 +46,11 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+
+**All-Over**
+[![Tech Stack](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,py,html,css,git,github,vscode)](https://skillicons.dev)
+
 
 ---
 
