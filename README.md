@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=0A66C2&center=true&width=600&lines=MERN+Stack+Developer;Full-Stack+Web+%26+IoT+Builder;BCA+Graduate+%7C+Open+to+Opportunities" alt="Typing animation"/>
 </p>
-
 <p align="center">
   <b>MERN Stack Developer · BCA Graduate (Brainware University, 2026)</b><br/>
   I build full-stack web applications and IoT-enabled solutions, and I enjoy turning real-world problems into working software.
@@ -53,6 +52,7 @@
 
 
 **All-Over**
+
 [![Tech Stack](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,py,html,css,git,github,vscode)](https://skillicons.dev)
 
 
